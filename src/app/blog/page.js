@@ -19,10 +19,10 @@ const Blog = () => {
         </div>
         <div className={styles.content}>
         <h1></h1>
-        <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
               facilisi. Sed nec nisl eu orci eleifend ullamcorper. Vivamus luctus
-              augue eget ligula tincidunt, sit amet fermentum quam venenatis."
-              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla</p>
+              augue eget ligula tincidunt, sit amet fermentum quam venenatis.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla</p>
         </div>
         </Link> 
         <Link href="/blog/websites" >
@@ -31,10 +31,10 @@ const Blog = () => {
         </div>
         <div className={styles.content}>
         <h1></h1>
-        <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
               facilisi. Sed nec nisl eu orci eleifend ullamcorper. Vivamus luctus
-              augue eget ligula tincidunt, sit amet fermentum quam venenatis."
-              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla</p>
+              augue eget ligula tincidunt, sit amet fermentum quam venenatis.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla</p>
         </div>
         </Link> 
         <Link href="/blog/application" >
@@ -43,10 +43,10 @@ const Blog = () => {
         </div>
         <div className={styles.content}>
         <h1></h1>
-        <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
               facilisi. Sed nec nisl eu orci eleifend ullamcorper. Vivamus luctus
-              augue eget ligula tincidunt, sit amet fermentum quam venenatis."
-              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla</p>
+              augue eget ligula tincidunt, sit amet fermentum quam venenatis.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla</p>
         </div>
         </Link> 
     </div>

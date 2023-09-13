@@ -23,21 +23,21 @@ const About = () => {
       </div>
       <div className={styles.textContainer}>
         <div className={styles.item}>
-          <h1>Who are you?</h1>
+          <h1>Who are you</h1>
           <p>
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
             facilisi. Sed nec nisl eu orci eleifend ullamcorper. Vivamus luctus
-            augue eget ligula tincidunt, sit amet fermentum quam venenatis."
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
+            augue eget ligula tincidunt, sit amet fermentum quam venenatis.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
           </p>
         </div>
         <div className={styles.item}>
-          <h1>What we do?</h1>
+          <h1>What we do</h1>
           <p>
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
             facilisi. Sed nec nisl eu orci eleifend ullamcorper. Vivamus luctus
-            augue eget ligula tincidunt, sit amet fermentum quam venenatis."
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
+            augue eget ligula tincidunt, sit amet fermentum quam venenatis.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
           </p>
           <Button url="/contact" text="Contact"/>
         </div>
