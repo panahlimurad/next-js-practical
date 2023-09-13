@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    gap: 50px;
+    margin-bottom: 50px;
+}
+
+.imgContainer{
+    height: 200px;
+    position: relative;
+    flex: 1;
+}
+
+.imgContainer:hover {
+    transform: scale(0.98);
+    transition: transform 0.4s ease;
+}
+
+.item{
+    display: flex;
+}
+
+.img{
+    object-fit: cover;
+}
