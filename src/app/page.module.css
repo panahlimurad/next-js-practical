@@ -26,9 +26,7 @@
 
 .item h1{
   font-size: 40px;
-  background: linear-gradient(to bottom, #194c33, #bbb);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  text-decoration: none;
 }
 
 .item p{
